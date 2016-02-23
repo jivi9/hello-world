@@ -1,2 +1,2 @@
 # hello-world
-First repository 
+Hello, I am Jivi an interaction designer 
